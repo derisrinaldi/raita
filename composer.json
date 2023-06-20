@@ -1,0 +1,19 @@
+{
+    "name": "rinaldi/raita",
+    "description": "Algoritm Match String Raita",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rinaldi\\Raita\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "derisrinaldi0",
+            "email": "derisrinaldi0@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
